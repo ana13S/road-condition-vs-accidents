@@ -1,0 +1,36 @@
+body {
+    background: #FA6E46;
+}
+
+.title {
+    position: absolute;
+    width: 698px;
+    height: 65px;
+    left: 375px;
+    top: 50px;
+
+    font-family: Sahitya;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 62px;
+    text-align: center;
+
+    color: #F8CA9D;
+}
+
+.about {
+    position: absolute;
+    width: 513px;
+    height: 443px;
+    left: 759px;
+    top: 220px;
+
+    font-family: Sahitya;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 42px;
+
+    color: #000000;
+}
