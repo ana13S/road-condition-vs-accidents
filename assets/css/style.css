@@ -3,11 +3,9 @@ body {
 }
 
 .title {
-    position: absolute;
-    width: 698px;
-    height: 65px;
-    left: 375px;
-    top: 50px;
+    margin: auto;
+    width: 80%;
+    padding: 30px;
 
     font-family: Sahitya;
     font-style: normal;
@@ -20,11 +18,9 @@ body {
 }
 
 .about {
-    position: absolute;
-    width: 513px;
-    height: 443px;
-    left: 759px;
-    top: 220px;
+    margin: auto;
+    width: 80%;
+    padding: 10px;
 
     font-family: Sahitya;
     font-style: normal;
